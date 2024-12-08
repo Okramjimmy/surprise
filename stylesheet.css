@@ -1300,6 +1300,28 @@ audio {
         background-color: #466baf;
     }
 
+/* General container styling */
+.birthday-text {
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Styling for the HBD text */
+.hbd {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: 40px;
+}
+
+/* Styling for the SANA text */
+.sana {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: 40px;
+  margin-top: 10px;
+}
 
 
     /*controlling tablet width*/
